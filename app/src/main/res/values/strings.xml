@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyMapApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="search_place">Search</string>
+    <string name="save">Save</string>
+    <string name="display_all_on_map">Display All on Map</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirmation_text">Sure to delete this object?</string>
+</resources>

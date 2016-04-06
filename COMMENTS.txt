@@ -1,0 +1,25 @@
+--------------------------------
+- Main architecture decisions. -
+--------------------------------
+For this application I used a simple but robust architecture and and oriented exclusively to meet the application's purpose.
+
+Using a subclass of FragmentActivity as the main Activity and  a ListView widget for list more than one result.
+This to better enjoy the onItemClickListenner thus making a cleaner architecture.
+
+The SearchAddressAsyncTask class is a AsyncTask which was established to carry out research and background processing and update the 
+data in the interface.
+
+A custom icon also gives a better appearance to the application.
+
+No third party libraries was used.
+
+If there was more time available to continue improving the application I seek to bring more pleasant items to the application interface 
+in order to further enhance the experience with the user.
+
+I did use the Android API Testing because I'm a novice programmer in Android and have no knowledge about the use of this tool.
+
+-------
+- APK -
+-------
+
+The folder MyMapApp\app contains the file "app-release.apk" installable and signed apk for mobile device.
